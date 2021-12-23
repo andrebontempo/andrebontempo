@@ -5,7 +5,8 @@ Olá, Eu sou o André Bontempo!!!
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 
+
+
 <div align="center">
   <a href="https://github.com/andrebontempo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrebontempo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
