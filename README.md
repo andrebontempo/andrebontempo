@@ -1,4 +1,4 @@
-## Olá, Eu sou o André Bontempo!!!
+## Olá, meu nome é: André Bontempo!!!
 
 - 👋 Hi, I’m @andrebontempo
 - 👀 I’m interested in ...
